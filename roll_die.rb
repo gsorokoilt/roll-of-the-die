@@ -3,7 +3,7 @@
 #10.times do
 count = 0
 until count == 10
-  number = Random.rand(6)
+  number = Random.rand(7)
 
     if number > 0
       count += 1
